@@ -1,0 +1,11 @@
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/jikexueyuan/com/baiduwaimai/R$mipmap$override.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/jikexueyuan/com/baiduwaimai/MainActivity$override.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/jikexueyuan/com/baiduwaimai/R$styleable$override.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/jikexueyuan/com/baiduwaimai/R$integer$override.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/jikexueyuan/com/baiduwaimai/R$id$override.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/jikexueyuan/com/baiduwaimai/R$layout$override.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/jikexueyuan/com/baiduwaimai/R$override.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/jikexueyuan/com/baiduwaimai/R$style$override.class
+CHANGED,/Users/zhangqiang/AndroidStudioProjects/BaiDuWaiMai/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/jikexueyuan/com/baiduwaimai/R$string$override.class

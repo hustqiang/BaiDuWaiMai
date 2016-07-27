@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jikexueyuan.fragmentdemo.Order">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textSize="40dp"
+        android:background="@color/red"
+        android:textColor="@color/white"
+        android:text="我的" />
+
+</FrameLayout>
